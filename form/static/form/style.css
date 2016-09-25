@@ -1,0 +1,34 @@
+p {
+	display: block;
+	overflow: hidden;
+	padding: 20px;
+	margin:0px;
+	
+}
+p label{
+	color: #089E98;
+	display: block;
+	width: 150px;
+	float:left;
+}
+p input{
+	display: block;
+	width: 300px;
+	float: left;
+	
+}
+p span{
+	display: block;
+	font-size: 0px;
+}
+form{
+	display: block;
+	margin-left: 400px;
+	margin-top: 50px;
+}
+
+form input{
+	
+}
+
+
